@@ -1,4 +1,4 @@
-This is one of the technical samples requested on the lyft apprenticeship application. Read below for API link and details on the API.
+This is one of the technical samples requested on the lyft apprenticeship application. Code is located in functions folder under "index.js". Read below for API link and details on the API.
 
 API link https://us-central1-every-third-letter.cloudfunctions.net/lyftApi/test
 This API accepts a POST request that accepts one argument "string_to_cut"
