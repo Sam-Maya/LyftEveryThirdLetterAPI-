@@ -1,0 +1,9 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "predeploy": [
+    "npm --prefix \"%RESOURCE_DIR%\" run lint"
+  ]
+}
